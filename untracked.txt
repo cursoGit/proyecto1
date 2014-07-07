@@ -1,2 +1,4 @@
 "Fichero untracked" 
 "Midificacion" 
+"Modificando " 
+"Vuelvo a modificarlo" 
